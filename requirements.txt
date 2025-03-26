@@ -1,0 +1,5 @@
+playsound
+pyaudio
+requests
+vosk
+vosk-tts
